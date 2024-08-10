@@ -14,11 +14,11 @@ I'm a software developer with a passion for open-source projects. Check out some
 
 ## Resume
 
-You can download my resume [here](./path/to/your/resume.pdf).
+You can download my resume [here](mrmanishgit/Resume/blob/main/ManishMaharana_Btech_CSE_8CGPA_Java_Developer.docx).
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: maharanamanish91@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-maharana-0855b6226)
 - GitHub: [Your GitHub Profile](https://github.com/mrmanishgit)
 Key Points to Consider
