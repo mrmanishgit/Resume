@@ -14,7 +14,7 @@ I'm a software developer with a passion for open-source projects. Check out some
 
 ## Resume
 
-You can download my resume [here](mrmanishgit/Resume/blob/main/ManishMaharana_Btech_CSE_8CGPA_Java_Developer.docx).
+You can download my resume [here](https://github.com/mrmanishgit/Resume/blob/main/ManishMaharana_Btech_CSE_8CGPA_Java_Developer.docx).
 
 ## Contact
 
